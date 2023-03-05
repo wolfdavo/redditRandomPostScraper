@@ -1,2 +1,3 @@
 # Reddit Random Post Scraper
-A CLI tool to get a random selection of posts from a subreddit.
+A little tool to get random posts from a subreddit.
+Uses [PRAW](https://praw.readthedocs.io/en/stable/index.html)
